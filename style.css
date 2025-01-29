@@ -354,3 +354,7 @@ color: hsl(233, 8%, 62%);
   top: -5px;
   left: 40px;
 }
+
+@media only screen and (max-width: 1440px) {
+
+  }
